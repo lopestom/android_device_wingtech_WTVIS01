@@ -1,4 +1,5 @@
 ## Wingtech WTVIS01 Device Tree - TWRP
+Hardware: MT6762     -----     Software: MT6765
 
 ## Specs
 Processor	MediaTek Helio P22   MT6762   3 GB RAM
