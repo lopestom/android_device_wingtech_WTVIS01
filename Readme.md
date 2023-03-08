@@ -1,4 +1,6 @@
-# Specs
+## full_S98421AA1-user-11-RP1A.200720.011-mp1k61v164bspP7-release-keys
+
+## Specs
 Processor	MediaTek Helio P22   MT6762   3 GB RAM
 OS / Platform	Android version 11
 Storage	32 GB raw hardware
