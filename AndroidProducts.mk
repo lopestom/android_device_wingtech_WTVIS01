@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_WTVIS01.mk
+    $(LOCAL_DIR)/twrp_WTVIS01.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_WTVIS01-user \
-    omni_WTVIS01-userdebug \
-    omni_WTVIS01-eng
+    twrp_WTVIS01-eng \
+    twrp_WTVIS01-userdebug \
+    twrp_WTVIS01-user
