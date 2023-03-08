@@ -67,8 +67,12 @@ FCC ID	2APXW-WTVIS01 »   approved Oct 11, 2021
 
 ---------------------------
 MTK_TEE_GP_SUPPORT = yes
+
 MTK_TEE_SUPPORT = yes
+
 TRUSTONIC_TEE_SUPPORT = yes
+
 MTK_ENCRYPTION_TYPE_FILE = yes
+
 --------------------------------
 some files and informations by lopestom.
